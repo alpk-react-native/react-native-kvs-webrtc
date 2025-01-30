@@ -46,14 +46,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AdamLee321/react-native-kvs-webrtc.git"
+    "url": "git+https://github.com/alpk-react-native/react-native-kvs-webrtc"
   },
-  "author": "alpk-react-native <adam123dublin@gmail.com> (https://github.com/AdamLee321)",
+  "author": "alpk-react-native <adam123dublin@gmail.com> (https://github.com/alpk-react-native)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AdamLee321/react-native-kvs-webrtc/issues"
+    "url": "https://github.com/alpk-react-native/react-native-kvs-webrtc/issues"
   },
-  "homepage": "https://github.com/AdamLee321/react-native-kvs-webrtc#readme",
+  "homepage": "https://github.com/alpk-react-native/react-native-kvs-webrtc#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
