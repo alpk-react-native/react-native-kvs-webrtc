@@ -1,4 +1,4 @@
-import { multiply } from 'react-native-kvs-webrtc';
+import { multiply } from '@alpk-react-native/react-native-kvs-webrtc';
 import { Text, View, StyleSheet } from 'react-native';
 
 const result = multiply(3, 7);
